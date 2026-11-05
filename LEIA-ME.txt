@@ -1,0 +1,9 @@
+ALDEIR SOM AUTOMOTIVO — CINEMATIC V2 (DEMO)
+
+Abra index.html no Chrome ou Edge. Role a pagina para experimentar a sequencia cinematografica de 4 cenas.
+
+Inclui: progresso de rolagem, secao sticky cinematografica, parallax, luzes, cursor luminoso, microinteracoes 3D, filtros de catalogo, galeria, formulario demo e menu mobile.
+
+Conteudo, imagens e produtos demonstrativos. Imagens externas requerem internet. WhatsApp nao conectado. Nenhuma alteracao no Auto Performance.
+
+Arquivos: index.html, styles.css, script.js, cinematic.js.
