@@ -1,9 +1,9 @@
-ALDEIR SOM AUTOMOTIVO — CINEMATIC V2 (DEMO)
+ALDEIR SOM — SIGNATURE CINEMATIC V3 (DEMO)
 
-Abra index.html no Chrome ou Edge. Role a pagina para experimentar a sequencia cinematografica de 4 cenas.
+Abra index.html no navegador ou publique os seis arquivos na raiz do GitHub Pages.
 
-Inclui: progresso de rolagem, secao sticky cinematografica, parallax, luzes, cursor luminoso, microinteracoes 3D, filtros de catalogo, galeria, formulario demo e menu mobile.
+Atualização: abertura cinematográfica, atmosfera de partículas em canvas, capítulos de cena, controles de efeitos, refinamentos visuais e mobile.
 
-Conteudo, imagens e produtos demonstrativos. Imagens externas requerem internet. WhatsApp nao conectado. Nenhuma alteracao no Auto Performance.
+Atenção: demonstração estática; fotos e produtos ilustrativos. Não há integração com Auto Performance nem número de WhatsApp configurado. A futura migração para React/GSAP/Three.js é uma etapa separada.
 
-Arquivos: index.html, styles.css, script.js, cinematic.js.
+Para atualizar o GitHub: copie os arquivos para C:\Users\Godoi\aldeir-som-site e execute git add .; git commit -m "feat: cinematic signature v3"; git push.
