@@ -1,9 +1,0 @@
-ALDEIR SOM — SIGNATURE CINEMATIC V3 (DEMO)
-
-Abra index.html no navegador ou publique os seis arquivos na raiz do GitHub Pages.
-
-Atualização: abertura cinematográfica, atmosfera de partículas em canvas, capítulos de cena, controles de efeitos, refinamentos visuais e mobile.
-
-Atenção: demonstração estática; fotos e produtos ilustrativos. Não há integração com Auto Performance nem número de WhatsApp configurado. A futura migração para React/GSAP/Three.js é uma etapa separada.
-
-Para atualizar o GitHub: copie os arquivos para C:\Users\Godoi\aldeir-som-site e execute git add .; git commit -m "feat: cinematic signature v3"; git push.
