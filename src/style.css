@@ -28,3 +28,14 @@
 @media(max-width:1000px){.services-v4 .service-stage{grid-template-columns:1fr}.services-v4 .service-preview{position:relative;top:auto;height:460px}.mobile-menu button:nth-child(-n+2){color:#d2f36a}}
 @media(max-width:700px){.services-v4 .service-preview{height:390px}.service-preview-content{left:22px;bottom:25px;right:22px}.service-preview-content strong{font-size:40px}.services-v4 .service-item{padding:23px 10px 23px 0}.services-v4 .service-item.service-featured{padding:23px 12px}.services-v4 .service-item h3{font-size:29px}.services-end-note{margin-top:45px;font-size:9px}.services-end-note span{display:none}.service-highlight-bar{font-size:9px}}
 @media(prefers-reduced-motion:reduce){.services-v4 .service-preview img{animation:none}}
+
+/* V5: vitrine de serviços como primeira tela */
+.nav{position:absolute;background:linear-gradient(180deg,#10120ff7,#10120feb);padding-top:19px;padding-bottom:19px;box-shadow:0 1px 0 #ffffff18}
+.services-v4:first-child{padding-top:155px;min-height:100svh;background:#f1f0ea}
+.services-v4:first-child .services-head{margin-bottom:45px}
+.services-v4:first-child .services-head h2{font-size:clamp(52px,7vw,112px);margin-top:22px}
+.services-v4:first-child .service-preview{height:clamp(430px,49vw,620px)}
+.services-v4:first-child .service-item{padding-left:18px;padding-right:18px}
+.services-v4:first-child .service-item h3{font-size:clamp(29px,3vw,50px)}
+@media(max-width:1000px){.services-v4:first-child{padding-top:115px}.nav{padding-top:18px;padding-bottom:18px}}
+@media(max-width:700px){.services-v4:first-child{padding-top:105px}.services-v4:first-child .services-head h2{font-size:clamp(44px,10vw,72px)}.services-v4:first-child .service-preview{height:390px}.services-v4:first-child .service-item{padding-left:10px;padding-right:10px}.services-v4:first-child .services-head{margin-bottom:35px}}
